@@ -1,0 +1,15 @@
+.header {
+  background-image: url(../img/sumidero_canyon.png);
+  background-size: cover;
+  height: 525px;
+  display: flex;
+  align-items: center;
+}
+
+.header-title {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 40px;
+  font-weight: 700;
+}
